@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
     s.name         = "OpenSSL-Apple-Bitcode"
-    s.version      = "1.0"
+    s.version      = "1.0.1"
     s.summary      = "OpenSSL XCFramework with bitcode support for all Apple Platform"
     s.description  = <<-DESC
     OpenSSL XCFramework with bitcode support for all Apple Platform
