@@ -1,10 +1,11 @@
 
 Pod::Spec.new do |s|
     s.name         = "OpenSSL-Apple-Bitcode"
-    s.version      = "1.0.1"
+    s.version      = "1.0.3"
     s.summary      = "OpenSSL XCFramework with bitcode support for all Apple Platform"
     s.description  = <<-DESC
-    OpenSSL XCFramework with bitcode support for all Apple Platform
+    OpenSSL XCFramework with bitcode support for all Apple Platform.
+    Built from openssl vresion 1.1.1p
     DESC
     s.homepage     = "http://otakbiner.com"
     s.license = { :type => 'Copyright', :text => <<-LICENSE
